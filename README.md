@@ -1,79 +1,98 @@
 <div align="center">
+  <img src="./assets/hero.png" alt="Hussnain Amanat Ali — AI Automation and Agentic AI" width="100%" />
 
-  <img src="./assets/hero.png" alt="Hussnain Amanat Ali — Python Engineering, AI Automation and Backend Development" width="100%" />
+  ### AI Automation · Agentic AI · Intelligent Business Solutions
 
-  <p><strong>Python Developer · AI Automation Engineer · Applied AI Builder</strong></p>
-  <p>Building practical software, reliable automations and intelligent products.</p>
+  **Building practical automation, integrating business systems, and exploring AI agents that solve real problems.**
 
-  <a href="#-featured-projects">Featured projects</a> &nbsp;•&nbsp;
-  <a href="#-engineering-toolkit">Tech stack</a> &nbsp;•&nbsp;
-  <a href="https://github.com/hussnaingujjar733?tab=repositories">All repositories</a>
-
+  [**LinkedIn**](https://www.linkedin.com/in/hussnainamanatali/) &nbsp;·&nbsp;
+  [**Projects**](#featured-projects) &nbsp;·&nbsp;
+  [**Tech stack**](#engineering-toolbox) &nbsp;·&nbsp;
+  [**All repositories**](https://github.com/hussnaingujjar733?tab=repositories)
 </div>
 
 ---
 
 ## 👋 About me
 
-I'm **Hussnain Amanat Ali**, a developer based in **France**, specializing in **Python, backend integrations, business process automation and applied AI**. I like shipping systems that solve operational problems, not just demos.
+I'm **Hussnain Amanat Ali**, based in **France**, working at the intersection of **business process automation, software integration, and applied AI**. My goal is to engineer intelligent solutions that make day-to-day operations simpler, safer, and more efficient.
 
-- 🎓 MSc in **Computer Science & Data Science**, **ESILV**, France — master's studies and internship in progress.
-- ⚙️ Working on professional **Python/Zoho Creator integrations, workflow automation, data validation and internal tools**.
-- 🤖 Researching conversational and adaptive human–robot interaction with **EMORA-NAO** (master's thesis).
-- 🏡 Building **ZAMI**, a prototype to make home-renovation decisions clearer and more trustworthy.
-- 🎯 Interested in **Python software engineering, backend and AI automation opportunities**.
+- ⚙️ **Automation & Digital Tools Engineering Intern — Locacoeur.** Working with Zoho Creator, Deluge, Python, APIs, and data-validation workflows to improve internal tools and business processes.
+- 🎓 **MSc Computer Science & Data Science — ESILV, France.** In the internship and thesis stage of the programme.
+- 🤖 **Agentic AI direction.** Exploring LLM-powered applications, tool-using agents, workflow orchestration, and responsible automation.
+- 🏡 **Building ZAMI.** Prototyping a renovation decision-support experience centred on homeowner trust and transparency.
+- 🔬 **Researching EMORA-NAO.** Exploring generative AI for adaptive human–robot interaction.
 
-## 🧰 Engineering toolkit
+> **Focus:** AI is valuable when it is connected to real workflows, reliable data, clear guardrails, and people who can understand and control the results.
 
-**Backend & automation**  
-![Python](https://img.shields.io/badge/Python-0E2442?style=for-the-badge&logo=python&logoColor=49D5F2)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E2442?style=for-the-badge&logo=fastapi&logoColor=49D5F2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E2442?style=for-the-badge&logo=postgresql&logoColor=49D5F2)
-![REST API](https://img.shields.io/badge/REST_APIs-0E2442?style=for-the-badge&logo=postman&logoColor=49D5F2)
-![Zoho Creator](https://img.shields.io/badge/Zoho_Creator-0E2442?style=for-the-badge&logo=zoho&logoColor=49D5F2)
+## ⚡ What I'm working on
 
-**AI, data & tooling**  
-![PyTorch](https://img.shields.io/badge/PyTorch-192446?style=for-the-badge&logo=pytorch&logoColor=BB90FF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-192446?style=for-the-badge&logo=scikitlearn&logoColor=BB90FF)
-![Pandas](https://img.shields.io/badge/Pandas-192446?style=for-the-badge&logo=pandas&logoColor=BB90FF)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-192446?style=for-the-badge&logo=apachespark&logoColor=BB90FF)
-![Streamlit](https://img.shields.io/badge/Streamlit-192446?style=for-the-badge&logo=streamlit&logoColor=BB90FF)
-![Git](https://img.shields.io/badge/Git-192446?style=for-the-badge&logo=git&logoColor=BB90FF)
+| Area | Practical focus |
+| :--- | :--- |
+| **Business automation** | CRM workflows, internal apps, data validation, operational processes |
+| **System integrations** | Python, REST APIs, Zoho Creator/Deluge, SQL-based data flows |
+| **Applied AI** | NLP, computer vision, generative AI experiments and research |
+| **Agentic AI — learning & prototyping** | Tool calling, retrieval, multi-step workflows, evaluations and safety checks |
+
+## 🧰 Engineering toolbox
+
+**Automation & integration**
+
+![Zoho Creator](https://img.shields.io/badge/Zoho_Creator-0B1834?style=for-the-badge&logo=zoho&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B1834?style=for-the-badge&logo=python&logoColor=00C9F2)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0B1834?style=for-the-badge&logo=postman&logoColor=00C9F2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1834?style=for-the-badge&logo=postgresql&logoColor=00C9F2)
+![Git](https://img.shields.io/badge/Git-0B1834?style=for-the-badge&logo=git&logoColor=00C9F2)
+
+**Applied AI & data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-24133E?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-24133E?style=for-the-badge&logo=scikitlearn&logoColor=C3A0FF)
+![Pandas](https://img.shields.io/badge/Pandas-24133E?style=for-the-badge&logo=pandas&logoColor=C3A0FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-24133E?style=for-the-badge&logo=streamlit&logoColor=C3A0FF)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-24133E?style=for-the-badge&logo=apachespark&logoColor=C3A0FF)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-24133E?style=for-the-badge&logo=apachekafka&logoColor=C3A0FF)
+
+**Currently expanding:** LLM APIs · RAG · agent tool-use patterns · workflow orchestration · evaluation and guardrails
 
 ## 🚀 Featured projects
 
-| Project | Problem I'm solving | Stack / focus |
+| Project | Why it matters | Status / focus |
 | :--- | :--- | :--- |
-| 🏡 **[ZAMI](https://github.com/hussnaingujjar733/Zami)** | Helping homeowners navigate renovation quotations and decisions with more clarity and trust. **Prototype.** | Product engineering · Decision support |
-| 🛡️ **[QuoteGuard AI](https://github.com/hussnaingujjar733/quoteguard-ai)** | AI-assisted review of renovation quotes to flag potential issues. **Prototype.** | Python · Applied AI · Streamlit |
-| 🤖 **[EMORA-NAO](https://github.com/hussnaingujjar733/emora-nao)** | Exploring adaptive conversation and expression for NAO humanoid robotics. **Research in progress.** | Generative AI · HRI · Python |
-| 🌍 **[EnviroHealth Monitor](https://github.com/hussnaingujjar733/RealTime-AirPollution-HealthRisk-Monitoring)** | Building a distributed environmental data and monitoring pipeline. **Collaborative MSc project.** | Kafka · Spark · HDFS · Grafana |
-| 👁️ **[Guardian AI](https://github.com/hussnaingujjar733/guardian-ai)** | Computer-vision experimentation in detection and behavioural analysis. **Prototype.** | YOLOv8 · Computer vision |
+| 🏡 **[ZAMI](https://github.com/hussnaingujjar733/Zami)** | Helps homeowners understand renovation options and quotations with more transparency and confidence. | Product prototype · Trust & decision support |
+| 🤖 **[EMORA-NAO](https://github.com/hussnaingujjar733/emora-nao)** | Explores context-aware dialogue and expression for a NAO humanoid robot. | MSc research in progress · Generative AI & HRI |
+| 🛡️ **[QuoteGuard AI](https://github.com/hussnaingujjar733/quoteguard-ai)** | Explores AI-assisted quotation analysis for potential issues and inconsistencies. | Applied AI prototype · Document analysis |
+| 👁️ **[Guardian AI](https://github.com/hussnaingujjar733/guardian-ai)** | Investigates computer vision for detecting and analysing events in video. | Computer vision prototype · YOLOv8 |
+| 🌍 **[EnviroHealth Monitor](https://github.com/hussnaingujjar733/RealTime-AirPollution-HealthRisk-Monitoring)** | Connects streaming environmental data with an analytics and monitoring pipeline. | Collaborative MSc project · Kafka, Spark & Grafana |
 
-## 🔨 Currently building
+*Project maturity varies; research and prototypes are labelled as such. Repository links are maintained by me.*
+
+## 🔧 How I approach engineering
 
 ```text
-PYTHON ENGINEERING
-├── Business process automation and internal applications
-├── API integrations and dependable validation pipelines
-├── ZAMI       → Home-renovation decision-support prototype
-└── EMORA-NAO  → Generative AI for human–robot interaction
+BUSINESS PROBLEM
+    ↓
+Understand processes and constraints
+    ↓
+Integrate APIs, data and automation
+    ↓
+Add AI where it provides clear value
+    ↓
+Validate, test, observe and keep humans in control
 ```
 
-> **Professional-project note:** Some of my work is built for an employer. Internal code, business data, customer information and private systems are not published in this profile.
+**Professional confidentiality:** Employer code, customer data and private integrations are not published here. Public examples and personal projects are separate from internal business systems.
 
-## 🧭 My engineering principles
+## 🤝 Let's connect
 
-**Build for real users.** Make automation explainable and resilient. Validate before writing. Keep humans in control of consequential workflows.
-
----
+I'm interested in **entry-level AI Automation, Applied AI and AI Solutions Engineering** opportunities, with availability from **March 2027**, subject to applicable work authorization.
 
 <div align="center">
-  <img src="./assets/ha-logo.png" alt="HA monogram" width="74" />
-  <p><strong>Let's build something useful.</strong></p>
-  <p>
-    <a href="https://github.com/hussnaingujjar733">GitHub</a> ·
-    <a href="https://github.com/hussnaingujjar733?tab=repositories">Projects</a>
-  </p>
-  <sub>Python • AI Automation • Backend Engineering • France</sub>
+  <a href="https://www.linkedin.com/in/hussnainamanatali/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/hussnaingujjar733?tab=repositories">GitHub projects</a>
+  <br /><br />
+  <img src="./assets/ha-logo.png" alt="HA monogram" width="68" />
+  <br />
+  <sub>AI Automation • Agentic AI • Applied AI • France</sub>
 </div>
